@@ -1,6 +1,6 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👋 Namaste, I’m Nirwan Tandukar
-- 🧑‍🎓 PhD Genetics and Genomics, MS Bioinformatics, MS Biotechnology
+- 🧑‍🎓 PhD Genetics and Genomics (currently), MS Bioinformatics, MS Biotechnology
 - 👀 Interested in everything Genomics and Bioinformatics
 - 💞️ I’m looking to collaborate on anything Biological
 - 📫 How to reach me- email: tandukar.nirwan @ gmail .com 
